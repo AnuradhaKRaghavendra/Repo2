@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 6896-E8FB
+
+ Directory of C:\Users\KRAnurad\Desktop\Project
+
+12/15/2022  10:49 AM    <DIR>          .
+12/15/2022  10:49 AM    <DIR>          ..
+12/15/2022  10:49 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  367,755,534,336 bytes free
